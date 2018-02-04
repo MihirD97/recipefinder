@@ -1,4 +1,5 @@
 == README
+Final version of recipe finder on food2fork.com API
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
